@@ -17,3 +17,9 @@ Thumbs.db
 Thumbs.db:*
 ehthumbs.db
 ehthumbs_vista.db
+my_knowledge_base/chroma.sqlite3
+my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/data_level0.bin
+my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/header.bin
+.gitignore
+my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/link_lists.bin
+my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/length.bin
