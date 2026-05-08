@@ -4,7 +4,7 @@
 # Ignore any directories here, see example
 # output/
 docs/
-my_knowlege_base/
+my_knowledge_base/
 
 # Optionally, if you have any other system-specific files or directories that should be ignored
 # macOS resource forks
@@ -24,3 +24,4 @@ my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/data_level0.bin
 my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/header.bin
 my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/link_lists.bin
 my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/length.bin
+my_knowledge_base/a8915b13-dcc9-43c0-aa83-f1811da2c3e2/index_metadata.pickle
