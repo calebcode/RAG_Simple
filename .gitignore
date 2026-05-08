@@ -3,6 +3,8 @@
 
 # Ignore any directories here, see example
 # output/
+docs/
+my_knowlege_base/
 
 # Optionally, if you have any other system-specific files or directories that should be ignored
 # macOS resource forks
