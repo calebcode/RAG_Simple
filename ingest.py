@@ -16,7 +16,7 @@ def chunk_text(text, chunk_size=1000, overlap=100):
 
 def ingest_docs(folder_path):
     client = chromadb.PersistentClient(path="my_knowledge_base")
-    collection = client.get_or_create_collection(name="tech_docs")
+    collection = client.get_or_create_collection(name="tech_docs", metadata={"hnsw:space": "cosine"})
 
     for filename in os.listdir(folder_path):
         if filename.endswith(".pdf"):
